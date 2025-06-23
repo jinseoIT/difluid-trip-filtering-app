@@ -26,7 +26,7 @@ const TripSection = () => {
   return (
     <section className="pl-20 mt-[120px] pb-20">
       <Title content="Duis tincidunt ut ligula vitae mollis." />
-      <div className="flex gap-5 mb-17 mt-12">
+      <div className="flex flex-col sm:flex-row gap-3 sm:gap-5 mb-17 mt-12">
         <TripAreaFilter
           selectedArea={selectedArea}
           setSelectedArea={setSelectedArea}
