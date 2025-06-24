@@ -24,7 +24,7 @@ React 19, TypeScript, TailwindCSS를 기반으로 구현된 관광지 필터링 
 | **Frontend**   | React 19, TypeScript    |
 | **Styling**    | Tailwind CSS            |
 | **State**      | React Hooks             |
-| **API**        | Unsplash API            |
+| **API**        | Picsum API            |
 | **Build Tool** | Vite                    |
 | **Package**    | npm                     |
 | **Testing**    | Vitest, Testing Library |
